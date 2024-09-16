@@ -1,4 +1,6 @@
 alert(vocêclicounobotão);
+constbutton='button';
+
 
 
 
