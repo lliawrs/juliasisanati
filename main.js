@@ -9,7 +9,7 @@ function areaQuadrado (lado){
 console.log (areaQuadrado(5));
 
 let media = function (num1,num2,num3,num4){
-    return num1+num2+num3/num4;
+    return (num1+num2+num3)/num4;
 }
 
 
