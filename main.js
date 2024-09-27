@@ -7,7 +7,9 @@ function areaQuadrado (lado){
     return lado**2;
 }
 console.log (areaQuadrado(5));
-
+let media = function (num1,num2,num3){
+    return num1+num2/num3;
+}
 
 
 
