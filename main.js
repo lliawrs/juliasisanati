@@ -11,6 +11,7 @@ console.log (areaQuadrado(5));
 let valoresMedia1 =  parseInt(prompt('insira valor 1'));
 let valoresMedia2 =  parseInt(prompt('insira valor 2'));
 let valoresMedia3 =  parseInt(prompt('insira valor 3'));
+let valoresMedi3 =  parseInt(prompt('insira valor 3'));
 
 let media = function (num1,num2,num3){
     return (num1+num2+num3)/3;
