@@ -17,7 +17,7 @@ let media = function (num1,num2,num3){
     return (num1+num2+num3)/3;
 }
 
-
+console.log (media(valoresMedia1,valoresMedia2,valoresMedia3:valoresMedia4))
 
 
 
